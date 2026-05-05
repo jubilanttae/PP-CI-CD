@@ -8,6 +8,7 @@ def add(a: int, b: int) -> int:
     Returns: int: The sum of the two numbers."""
     return a + b
 
+
 def subtract(a: int, b: int) -> int:
     """Subtract two numbers.
 
@@ -15,6 +16,7 @@ def subtract(a: int, b: int) -> int:
 
     Returns: int: The difference of the two numbers."""
     return a - b
+
 
 def multiply(a: int, b: int) -> int:
     """Multiply two numbers.
@@ -24,6 +26,7 @@ def multiply(a: int, b: int) -> int:
     Returns: int: The product of the two numbers."""
     return a * b
 
+
 def divide(a: int, b: int) -> float:
     """Divide two numbers.
 
@@ -31,3 +34,4 @@ def divide(a: int, b: int) -> float:
 
     Returns: float: The quotient of the two numbers."""
     return a / b
+
