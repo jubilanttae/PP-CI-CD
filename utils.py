@@ -34,4 +34,3 @@ def divide(a: int, b: int) -> float:
 
     Returns: float: The quotient of the two numbers."""
     return a / b
-
