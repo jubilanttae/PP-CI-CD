@@ -1,5 +1,6 @@
 """Calculate basic math operations."""
 
+
 def add(a: int, b: int) -> int:
     """Return the sum of two numbers.
 
